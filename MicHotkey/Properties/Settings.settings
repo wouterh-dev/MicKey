@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MicHotkey.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="hotkeyModifiers" Type="MicHotkey.ModifierKeys" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="hotkeyKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F24</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
